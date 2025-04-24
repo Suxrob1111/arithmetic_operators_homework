@@ -3,5 +3,8 @@
 #Find the reverse of the number and assign it to a variable called 'answer'.
 
 #Print the value of the 'answer'
+number=21
+answer=int(str(number)[::-1])
+print(int(answer))
 
 
