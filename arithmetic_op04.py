@@ -9,3 +9,8 @@
 #Create a variable called 'answer' and assign it the sum of the three digits x1, x2, x3.
 
 #Print the value of the 'answer.
+number =333
+x1=int(str(number)[1])
+x2=int(str(number)[2])
+x3=int(str(number)[-1])
+print(x1+x2+x3)
