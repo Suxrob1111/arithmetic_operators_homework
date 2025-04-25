@@ -6,4 +6,12 @@
  
 #Print the answer.
  
-#Print the number.
+#P
+# Create a variable called 'number' and assign any value of int to it.
+
+
+
+number =7
+number number / 2
+answer = number % 1
+print(answer)
